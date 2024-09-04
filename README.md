@@ -1,1 +1,1 @@
-#Ruby Study and Tutorials#
+Ruby Study and Tutorials
