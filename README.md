@@ -12,3 +12,6 @@ This is a personal repository for testing, tracking, and learning Ruby, with the
 
 I'm mostly working my way through Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html) Ruby tutorials. I'll make my way back here as I learn more to fix some of my formatting and commenting, but for now I'm mostly getting things running.
 
+## What's next?
+To get closer to Rails, I'll be taking a spin through this guide to [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html).
+
