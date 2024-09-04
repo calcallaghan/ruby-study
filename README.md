@@ -10,5 +10,5 @@ I've built a lot of tools for everyday consumer-level usage, and I've always enj
 
 This is a personal repository for testing, tracking, and learning Ruby, with the overall aim of building fluency with the Rails Template.
 
-I'm mostly working my way through Chris Pine's (Learn to Program)[https://pine.fm/LearnToProgram/chap_00.html] Ruby tutorials. I'll make my way back here as I learn more to fix some of my formatting and commenting, but for now I'm mostly getting things running.
+I'm mostly working my way through Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html) Ruby tutorials. I'll make my way back here as I learn more to fix some of my formatting and commenting, but for now I'm mostly getting things running.
 
